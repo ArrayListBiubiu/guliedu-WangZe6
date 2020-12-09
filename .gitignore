@@ -1,0 +1,25 @@
+##ignore this file##
+
+##忽略".idea"文件夹下的所有文件
+.idea/
+
+
+
+##忽略"target"文件夹下的所有文件
+target/
+
+##忽略".iml"结尾的文件
+*.iml
+
+##忽略".md"结尾的文件
+*.md
+
+##忽略".cmd"结尾的文件
+*.cmd
+
+##忽略".gitignore"结尾的文件
+*.gitignore
+
+
+##忽略".class"文件夹下的所有文件
+*.class
